@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Hi, I'm Restu! 👋
-👩🏻‍💻 Frontend Developer<br> 👩🏻‍🎓 Studied Informatics Engineering at the Universitas Islam Nusantara<br>🔭I’m currently working on E-commerce<br> 🎨 Linux Enthusiast<br> 💭 Currently learning about Docker & Jenskins<br>💬 Ask me about JavaScript<br>⚡ Fun fact Sleep & Play Game
+### Hi, I'm Widya! 👋
+👩🏻‍💻 Fullstack Developer<br> 👩🏻‍🎓 Studied Informatics Engineering at the Universitas Islam Nusantara<br>🔭I’m currently working on E-commerce<br> 🎨 Linux Enthusiast<br> 💭 Currently learning about Docker & Jenskins<br>💬 Ask me about JavaScript<br>⚡ Fun fact Sleep & Play Game
 
 
 ## 🌐 Socials:
@@ -12,6 +12,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
